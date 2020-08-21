@@ -1,4 +1,4 @@
-# hilda+
-HiLDA+ - Global Land Use Change (data-driven allocation model)
+# HiLDA+ Global Land Use Change
+A data-driven land use/cover allocation model
 
-code will be uploaded soon...
+Code will be uploaded soon...
